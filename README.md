@@ -1,21 +1,32 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+><h1>Matheus Pablo Oliveira da Luz</h1>
 
+><h2>Aqui eu organizo boa partes dos meus projetos e atividades, fique a vontade.</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Pablo;I'm+18+years+old;I+am+from+Recife,+PE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+><h3>linguagens em processo de dominio:</h3>
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusPablo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Pablo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPablo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div>
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusPablo&theme=gotham)
+##
 
-<div align="center">  
-<a href="https://www.instagram.com/mathheusxp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPablo&show_icons=true&theme=dark)
+##
 
- <div> My Skills</div>
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,)](https://skillicons.dev)
-  
+<h3>Redes Sociais</h3>
+<div>
+<a href="https://discord.gg/guVHukZ5M8"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.instagram.com/mathheusxp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/mathheusxp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+##
+<h3>Contato</h3>
+<div>
+<a href="mailto:mp123g2gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
